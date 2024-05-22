@@ -1,7 +1,6 @@
 from django.apps import AppConfig
 
 
-class SocialConfig(AppConfig):
+class PagesConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'social'
-    verbose_name = 'Redes Sociales'
+    name = 'pages'
