@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'blog',
     'social.apps.SocialConfig',
     'pages.apps.PagesConfig',
+    'contact',
 ]
 
 MIDDLEWARE = [
